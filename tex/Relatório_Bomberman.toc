@@ -1,0 +1,20 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {0.1}Introdu\IeC {\c c}\IeC {\~a}o}{1}
+\contentsline {section}{\numberline {0.2}Descri\IeC {\c c}\IeC {\~a}o do Problema}{1}
+\contentsline {section}{\numberline {0.3}Primeira fase do Projeto}{2}
+\contentsline {subsection}{\numberline {0.3.1}Primeira Tarefa}{2}
+\contentsline {subsection}{\numberline {0.3.2}Testes da Primeira Tarefa}{3}
+\contentsline {subsection}{\numberline {0.3.3}Segunda Tarefa}{3}
+\contentsline {subsection}{\numberline {0.3.4}Testes da Segunda Tarefa}{4}
+\contentsline {subsection}{\numberline {0.3.5}Terceira Tarefa}{5}
+\contentsline {subsection}{\numberline {0.3.6}Testes da Terceira Tarefa}{5}
+\contentsline {section}{\numberline {0.4}Segunda fase Projecto}{5}
+\contentsline {subsection}{\numberline {0.4.1}Estrutura de Dados: Quarta Tarefa}{5}
+\contentsline {subsection}{\numberline {0.4.2}Quarta Tarefa}{6}
+\contentsline {subsection}{\numberline {0.4.3}Testes da Quarta Tarefa}{8}
+\contentsline {subsection}{\numberline {0.4.4}Estrutura de Dados: Quinta Tarefa}{8}
+\contentsline {subsection}{\numberline {0.4.5}Quinta Tarefa}{8}
+\contentsline {subsection}{\numberline {0.4.6}Estrutura de Dados: Sexta Tarefa}{10}
+\contentsline {subsection}{\numberline {0.4.7}Sexta Tarefa}{10}
+\contentsline {subsection}{\numberline {0.4.8}Testes da Sexta Tarefa}{11}
+\contentsline {section}{\numberline {0.5}Conclus\IeC {\~a}o}{12}
